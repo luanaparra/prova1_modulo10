@@ -15,7 +15,7 @@ O recurso /pedidos/<id> ainda deve possibilitar editar o pedido e excluir ele, i
 Em primeiro lugar é necessário clonar o repositório com o seguinte comando:
 
 ```
-git clone https://github.com/luanaparra/prova1_modulo9
+git clone https://github.com/luanaparra/prova1_modulo10
 ```
 
 Dessa maneira, é possível entrar na pasta `/src` e instalar as dependências:
